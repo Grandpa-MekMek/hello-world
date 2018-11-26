@@ -1,2 +1,2 @@
-hello git 
+hello git
 added one line
